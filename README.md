@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ahmadnoor947](https://medium.com/@ahmadnoor947)
 
-- 💬 Ask me about **react, javascript, HTML, CSS, DSA**
+- 💬 Ask me about **React Js, Javascript, HTML, CSS, DSA, Next Js, ES6**
 
 - 📫 How to reach me **ahmadnoor947@gmail.com**
 
