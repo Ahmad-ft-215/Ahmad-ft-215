@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-ft-215&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-ft-215" /> </p>
 
-- 🔭 I’m currently working on **espncricinfo**
 
 - 🌱 I’m currently learning **Moongoose**
 
