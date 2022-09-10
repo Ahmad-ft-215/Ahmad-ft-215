@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ahmadnoor947@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CPns45pCK2ivyk7WatsNSwExYA0-PIz93qLdOtYc8DA/edit?usp=sharing](https://docs.google.com/document/d/1CPns45pCK2ivyk7WatsNSwExYA0-PIz93qLdOtYc8DA/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16HNkdNhNzni1YaNsSR0hkmYVqMgzgR57/view?usp=sharing]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
