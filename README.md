@@ -144,22 +144,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-ft-215&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117,000000,130F40" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-ft-215&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-ft-215&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmad-ft-215&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-ft-215&show_icons=true&count_private=true&show_owner=true&theme=react&hide_border=true&bg_color=0,000000,190F40,190F40" alt="Ahmad Noor GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-ft-215&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Ahmad Noor GitHub Stats"/>
 </p>
 
-<br/>
-
-<a href="https://github.com/Ahmad-ft-215/github-readme-activity-graph">
-  <img alt="Ahmad Noor Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmad-ft-215&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-ft-215&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Ahmad Noor Activity Graph"/>
+</p>
 
 ---
 
